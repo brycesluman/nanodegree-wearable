@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.2.0_cfe5f64799df0be5a2653cb3495629d7aac8b023.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_7c585ab5764acfa815f2f45f1a7916b58592151c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d7d1a4cf24bf9b463aa84019d9f5e7336550c855.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_a70f151cf6da0ff968b7ad2f44d7a3760580962d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_606e8f7bd40602f0679d0c02d096bdc3bd603e8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_bd9145c392069877571a2e5b1ccdbeb26959d9da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_26b5f24f0fe4d23c5a6eefee0dff5735cb5917e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_88b96d2472bc36e4557bd291da2d844e4125a8e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.8.0_8d9c2d8c546d6f15d56d823a6c4deaed150ac20a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.8.0_8e944dc71c2538f497198039565ebecd13324eaf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3202db513a724413357b6189c481d88004a97b79">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.google.android.support-wearable-2.0.0-alpha3_63341981b1436f98f8a1a6765d66b1907453de84.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_79e7824b6e3ecd993aa848132ce3c216e9776765.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.0.0_ba7474c7f6f58b069c9f91fee4bf7ceb4f754232.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_392f5a327a1f442485f9703bbec541a91e6df413.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_05d038b36a5ec0d4571200aebe8dfaea4379b5ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4c72b7305d9c42d7729d66694dc984f69896a844">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-22.2.0_86c0c8b0fe5a80306dea76846a732e852d9d935b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_d04a04fbceb5fcdd7277c72f8d6d361a77e80159.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-v13-25.0.0_d37671447ff8da0d745a05f7a8114bf3e6c04d5f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_8b6be56b67fd970c059c60e7735c520133f87ef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_a5c6570ecd70d170438e623820529fe50bbd6484.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-22.2.0_be9eff2d40eaac664afff42c12dd3d97ea244fc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_c9dde60652a89f9e28f3494010687206c2546e7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4c72b7305d9c42d7729d66694dc984f69896a844">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/com.android.support-gridlayout-v7-22.2.0_ed77ac4482184b85e85f483ad1d58eb398b2f155.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_3d70c7bf555d1f9c3f329aa8d5ebc566f1c704a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_fee71fc3cc297a8cc3af8c4af8df227ad0769f78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.8.0_592353baf3d3704fe8b13f049f8db773851092ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.2.0_278ada75e51396bbe6d44087dd3b5c0a7cd8b4fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_2adaf3faf8ea2b1ec0b98be4ddc3df058653ca69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.0_4c23089e785b737c1aee1027503b1076aa11a9a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b2e1e8573af2efc0fac368428c11a96c1d1c44fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.google.android.support/wearable/2.0.0-alpha3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3202db513a724413357b6189c481d88004a97b79">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.google.android.support-wearable-2.0.0-alpha3_317a2b6f0a4f6a7fc707421bb8ac910875e63439.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.0_f1d48f75c941c0ff5090d9dd4442d1136cf2727d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_e03a7365c13c767f7d85a8bbc78cca0bcf213b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_7f5b8e2288464a1abfdbe2ff1777add2e2c50723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.8.0_cf7872eb0e10ce78da0c1e1eafd57b5a6b65a41d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.0_d87d99c36c09c27d97a493727e9d684c9715841e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.8.0_8b70f5782324cb9cc0c82333b847ed3454f49ba1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_227ce85bda348307deca41879d580a67915c7f43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_195b6e7e07f118aae43b2a1c78d53691515f99c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_ee92200ba928cf8dfe030f67f5517ef105cdd736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_1e53bfbc440f938a5ecd680618f41c3d402bd531.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_8400916e2e85ba7ebc7e78a90b6453a7826f7787.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_2230755f110c272d5ec527c0010a8670e12eeb82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_24721ee8a21d8bfb172ea74e7f51a45e31c6bb77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_1fd8358bb8c4a0d2c2540bcf3dd2ad68d7fb7ac6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.8.0_1f0c59308e5bc93f6c871c650ee03fb15369292c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.8.0_4e0a22dd7bfaddce62c011a4d3b2afc33ffbe562.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_cac359dbabdfcf439bca6bb3e762e5870ead54a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.0_d353fcc6c0cbbe19cf5ae88e324a2bd480425c7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.0_d313920ed24ba0acfc8deee85359cf6e0b468288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_df80a8825fedc70b2793c3d0b3b3972a0d5c5319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/glide-3.5.2_893b243d75a88d3f82b418d350fca36a80a442a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_fcca6b7f22d35d4a77d5ca7821baa8e9447d4311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/com.android.support-design-22.2.0_2d10990e76bab97efb7f1709f1be6ec4572f80ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_6613aa855b6180c94bb916fc5d6d44c753b1b9a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.0_8a92108b73caf1b7f397653e6cfb4a470319bef8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_423d4f568d4de273e92dea51a1b8bf4f51f22736.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.0_257c650b019d85f19bf705a1e2762afd7e4f8f53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_963a463d9f7e1ad31144d224ac3d51e93148fac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_b774808c990a1785a3d9d4ec52477db8917b7ed8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/.gradle/caches/modules-2/files-2.1/com.google.android.apps.muzei/muzei-api/2.0/ea86be2a201e6ad86dacffe774dbc6d89fcb0c92/muzei-api-2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="ea86be2a201e6ad86dacffe774dbc6d89fcb0c92">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/muzei-api-2.0_13876eb0fce09e640acc67f5250d5a0ade774ca2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_a6834033d1639550889480bbf6cc2fde660c7114.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.0_45e100be9dbaef6a69d42ff340b48270956ba540.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-22.2.0_ea66f2cf8f92cabf133b8c64a1cfc899edb615ff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.8.0_3f40eacb8ef6a41b6e6e716766b5f9ae7a4157b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_4b67e4421d4931856f80950f7fe5deb1636e9db3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/bryce/AndroidStudioProjects/Advanced_Android_Development/watchface/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_ac66b01326774f13951e353baee03bd8b154beeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/bryce/AndroidStudioProjects/nanodegree-wearable/watchface/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_ddd406c0ad137b2a9b2f63d0c13b43b2ec406ab6.jar" />
+    </item>
+
+</items>
